@@ -26,3 +26,18 @@ In addition, i will produce the following three pie charts:
 ## Technologie used
 * The Pandas Library and the Jupyter Notebook.
 * Matplotlib library.
+
+
+
+
+## Findings
+
+
+![%ofTotalDriversByCityType.png](%ofTotalDriversByCityType.png)
+
+
+![%ofTotalFaresByCityType.png](%ofTotalFaresByCityType.png)
+
+
+![%ofTotalRidesByCityType.png](%ofTotalRidesByCityType.png)
+
