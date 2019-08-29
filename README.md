@@ -30,14 +30,4 @@ In addition, i will produce the following three pie charts:
 
 
 
-## Findings
-
-
-![%ofTotalDriversByCityType.png](Images/%ofTotalDriversByCityType.png)
-
-
-![%ofTotalFaresByCityType.png](Images/%ofTotalFaresByCityType.png)
-
-
-![%ofTotalRidesByCityType.png](Images/%ofTotalRidesByCityType.png)
 
